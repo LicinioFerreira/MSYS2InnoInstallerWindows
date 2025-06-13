@@ -50,7 +50,7 @@ pacman -S mingw-w64-x86_64-python-mingw-ldd
 6. Visualize the dependencies of DLL files using the following command: ldd
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc9db04d-ad01-4bcf-abd1-29c3e179d4ca" alt="1" width="800" />
+  <img src="https://github.com/user-attachments/assets/bc9db04d-ad01-4bcf-abd1-29c3e179d4ca" alt="1" width="900" />
 </p>
 
 <p align="center"><strong>Figure 4.</strong> After detecting all DLL files in the system (Windows 11 + MSYS2), these were moved to the project folder.</p>
