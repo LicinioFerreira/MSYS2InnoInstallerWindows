@@ -64,9 +64,6 @@ https://jrsoftware.org/isinfo.php
 
 <p align="center"><strong>Figure 6.</strong> Installing the Inno Setup 6 to create an installer of this miniproject.</p>
 
-
-___________________________________________________________________________________________
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09d44549-d09c-4db2-9767-4ce83b1d94fa" alt="1" width="800" />
 </p>
@@ -78,6 +75,10 @@ ________________________________________________________________________________
 </p>
 <p align="center"><strong>Figure 7.</strong> Scripting in inno to create an installer.</p>
 
+**References**
+
+https://www.msys2.org/
+https://jrsoftware.org/isinfo.php
 
 
 
