@@ -82,7 +82,7 @@ pacman -S mingw-w64-x86_64-python-mingw-ldd
 <p align="center">Missing text</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a08b5f6a-ae33-4ce9-a5ac-6c12ccdc374c" alt="1" width="800" />
+  <img src="https://github.com/user-attachments/assets/a08b5f6a-ae33-4ce9-a5ac-6c12ccdc374c" alt="1" width="1000" />
 </p>
 <p align="center"><strong>Figure 7.</strong> Scripting in inno to create an installer.</p>
 
