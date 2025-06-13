@@ -8,7 +8,7 @@ pacman -S mingw-w64-x86_64-gcc
 pacman -S mingw-w64-x86_64-python-mingw-ldd
 
 
-missing text
+<p align="center">Missing text</p>
 
 
 
