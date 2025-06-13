@@ -25,6 +25,13 @@ https://jrsoftware.org/isinfo.php
 
 <p align="center"><strong>Figure 2.</strong> After installing MSYS2.</p>
 
+
+
+![image](https://github.com/user-attachments/assets/f05e84a3-531d-483d-a0db-9037bd4f68e4)
+
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57cd2b4d-6d02-4812-8cac-5b676ef75943" alt="1" width="800" />
 </p>
