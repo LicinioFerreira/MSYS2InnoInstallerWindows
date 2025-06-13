@@ -7,9 +7,13 @@ pacman -S mingw-w64-x86_64-python-mingw-ldd
 https://www.msys2.org/
 https://jrsoftware.org/isinfo.php
 
-![image](https://github.com/user-attachments/assets/742a10a7-7b81-4e8a-85f7-358ebd57b464)
 
-Figure 1. Install MSYS2 on Windows 11.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/742a10a7-7b81-4e8a-85f7-358ebd57b464" alt="1" width="400" />
+</p>
+
+<p align="center"><strong>Figure 1.</strong> Install MSYS2 on Windows 11.</p>
+
 
 ![image](https://github.com/user-attachments/assets/aa55e989-ace5-4740-90f7-a144d3201f28)
 
